@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newpro-app/static/css/main.f855e6bc.css",
+    "main.js": "/newpro-app/static/js/main.b22f9239.js",
+    "static/js/453.8ca4dadd.chunk.js": "/newpro-app/static/js/453.8ca4dadd.chunk.js",
+    "index.html": "/newpro-app/index.html",
+    "main.f855e6bc.css.map": "/newpro-app/static/css/main.f855e6bc.css.map",
+    "main.b22f9239.js.map": "/newpro-app/static/js/main.b22f9239.js.map",
+    "453.8ca4dadd.chunk.js.map": "/newpro-app/static/js/453.8ca4dadd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b22f9239.js"
+  ]
+}
